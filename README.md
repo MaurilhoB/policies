@@ -1,0 +1,2 @@
+# policies
+Android apps policies
